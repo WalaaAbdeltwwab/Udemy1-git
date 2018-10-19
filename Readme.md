@@ -1,5 +1,5 @@
-## Udemy-git Course In Introduction To Git And Github
+## Udemy Course In Introduction To Git And GitHub By Brogrammer Amani Abbas
 ### First Assignment
 
-Name: Walaa Abdeltwwab
-Note: I hope To Be A professional Coder 
+*Name: Walaa Abdeltwwab Mostafa
+*Note: I hope To Be A professional Coder 
